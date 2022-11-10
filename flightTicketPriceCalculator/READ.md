@@ -1,4 +1,4 @@
-make the program that calculates the price of air tickets based on the distance and conditions with ava. Get Distance (KM), 
+Make the program that calculates the price of air tickets based on the distance and conditions with ava. Get Distance (KM), 
 age and type of trip (One Way, Round Trip) information from the user. Take the fee as 0,10 TL/km per distance. 
 First, calculate the total price of the flight and then apply the following discounts to the customer according to the conditions ;
 
